@@ -1,0 +1,2 @@
+A2K:
+	python -m SimpleHTTPServer 8000
